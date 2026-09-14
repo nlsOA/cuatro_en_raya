@@ -146,6 +146,6 @@ Un pequeño proyecto enfocado en convertir las reglas de un juego clásico en un
  
 ## 👨‍💻 Autor
  
-Nícolas Orrego
+Nícolas
  
 Construido desde cero con C++.
