@@ -58,7 +58,7 @@ El juego sigue un bucle simple:
          Turno
 ```
 
-# 🔴🟡 Cuatro en Raya (Connect Four) — C++
+# 🔴🟡 Cuatro en Raya — C++
  
 El tablero se representa con un arreglo bidimensional:
  
